@@ -2,7 +2,7 @@ import Image from "next/image";
 import DataStructure from "./dataStructure";
 export default function Home() {
 
-  const numbers = [1, 2, 3, 4, 5];
+  const numbers = [1, 3, 4, 5];
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
